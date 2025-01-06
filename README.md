@@ -1,4 +1,4 @@
-# 30 Days DevOps Challenge - Weather Dashboard
+# Weather Dashboard
 
 Day 1: Building a weather data collection system using AWS S3 and OpenWeather API
 
@@ -53,7 +53,7 @@ bashCopypip install -r requirements.txt
 CopyOPENWEATHER_API_KEY=your_api_key
 AWS_BUCKET_NAME=your_bucket_name
 
-4.Configure AWS credentials:
+4. Configure AWS credentials:
 bashCopyaws configure
 
 5. Run the application:
