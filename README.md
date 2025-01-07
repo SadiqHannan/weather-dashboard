@@ -56,11 +56,11 @@ AWS_BUCKET_NAME=your_bucket_name
 4. Configure AWS credentials:
 bashCopyaws configure
 
-**export AWS_ACCESS_KEY_ID**="your-access-key-id"
+     **export AWS_ACCESS_KEY_ID**="your-access-key-id"
 
-**export AWS_SECRET_ACCESS_KEY**="your-secret-access-key"
+     **export AWS_SECRET_ACCESS_KEY**="your-secret-access-key"
 
-**export AWS_DEFAULT_REGION**="your-region"  # e.g., us-east-1
+     **export AWS_DEFAULT_REGION**="your-region"  # e.g., us-east-1
 
 
 6. Run the application:
